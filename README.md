@@ -12,8 +12,8 @@
 
 
 
-- 🔭 I’m currently working on [TheDesignSystems](https://github.com/DesignSystemsOSS)
-- 🌱 I’m currently learning JavaScript and C++
+- 🔭 I’m currently working on [TheDesignSystems](https://github.com/DesignSystemsOSS) and MYSELF
+- 🌱 I’m currently learning JavaScript, C++ and Python
 - 💬 Ask me about Web Development and Competitive Programming.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/atharva-gadkari-0974b11b6/)
 [Instagram](https://www.instagram.com/ig_atharva05/)
