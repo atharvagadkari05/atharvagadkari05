@@ -2,8 +2,9 @@
 
 
 ## My Github Stats
-![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=atharvagadkari05)
 
+
+![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=atharvagadkari05&show_icons=true&theme=radical)
 
 
 
