@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvagadkari05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 ## My Github Stats
 
 
-![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=atharvagadkari05&show_icons=true&theme=radical)
+![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=atharvagadkari05&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvagadkari05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
