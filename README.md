@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[TheDesignSystems](https://www.thedesignsystems.com/)**
+- 🔭 I’m currently working at **[TheDesignSystems](https://www.thedesignsystems.com/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
