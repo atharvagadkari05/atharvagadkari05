@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **Open-Source Projects**
+- 👯 I’m a Backend Developer who is looking to collaborate in **Open-Source Projects**
 
-- 📫 How to reach me **atharvagadkari0512@gmail.com**
+- 📫 How to reach me **atharvagadkari0512@gmail.com** or **[Linkedin](https://www.linkedin.com/in/atharva-gadkari-0974b11b6/)**
 
 - ⚡ Fun fact **I would love to explore and learn about other financial domains and Blockchain**
 
