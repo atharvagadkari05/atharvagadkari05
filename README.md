@@ -6,15 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[TheDesignSystems](https://www.thedesignsystems.com/)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🔭 I’m currently Learning about API-Design and **[Open-API Specification](https://swagger.io/specification/)**. I'm also exploring the concepts of EDAs and how **[AsyncAPI](https://www.asyncapi.com/)** can be used. 
 
 - 👯 I’m a Backend Developer who is looking to collaborate in **Open-Source Projects**
 
 - 📫 How to reach me **atharvagadkari0512@gmail.com** or **[Linkedin](https://www.linkedin.com/in/atharva-gadkari-0974b11b6/)**
 
-- ⚡ Fun fact **I would love to explore and learn about other financial domains and Blockchain**
+- ⚡ Fun fact  **I love gaming and I'm passionate about E-sports in India.**
 
 ## 🚀 Languages and Tools:
 
