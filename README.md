@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **atharvagadkari0512@gmail.com** or **[Linkedin](https://www.linkedin.com/in/atharva-gadkari-0974b11b6/)**
 
-- ⚡ Fun fact  **I love gaming and I'm passionate about E-sports in India.**
+- ⚡ Fun fact  **I love gaming and I'm passionate about learning finances and personal growth**
 
 ## 🚀 Languages and Tools:
 
