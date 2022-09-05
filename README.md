@@ -46,7 +46,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Stats:
 
   <br/>
     <a href="https://github.com/atharvagadkari05/github-readme-stats"><img alt="Atharva Gadkari Github Stats" src="https://github-readme-stats.vercel.app/api?username=atharvagadkari05&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
