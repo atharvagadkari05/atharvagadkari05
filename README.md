@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate and curious developer from India.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me:
 
 - 🔭 I’m currently Learning about API-Design and **[Open-API Specification](https://swagger.io/specification/)**. I'm also exploring the concepts of EDAs and how **[AsyncAPI](https://www.asyncapi.com/)** can be used. 
 
