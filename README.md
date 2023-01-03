@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently Learning about API-Design and **[Open-API Specification](https://swagger.io/specification/)**. I'm also exploring the concepts of EDAs and how **[AsyncAPI](https://www.asyncapi.com/)** can be used. 
 
-- 👯 I’m a Backend Developer who is also collaborating to **Open-Source Projects**
+- 👯 I’m a Backend Developer and a system design enthusiast
+ who is also collaborating to **Open-Source Projects**
 
 - 📫 How to reach me **atharvagadkari0512@gmail.com** or **[Linkedin](https://www.linkedin.com/in/atharva-gadkari-0974b11b6/)**
 
