@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently Learning about API-Design and **[Open-API Specification](https://swagger.io/specification/)**. I'm also exploring the concepts of EDAs and how **[AsyncAPI](https://www.asyncapi.com/)** can be used. 
+- 🔭 I'm currently working as a Software Engineer @Impetus. 
 
 - 👯 I’m a Backend Developer and a system design learner.
  who is also collaborating to **Open-Source Projects**
